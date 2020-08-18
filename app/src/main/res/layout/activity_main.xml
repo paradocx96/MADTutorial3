@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#caa5f1"
     tools:context=".MainActivity">
 
     <TextView
@@ -86,6 +87,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="156dp"
         android:layout_marginEnd="167dp"
+        android:backgroundTint="#96f7d2"
         android:text="@string/btn_ok"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"

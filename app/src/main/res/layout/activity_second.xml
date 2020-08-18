@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#a6acec"
     tools:context=".SecondActivity">
 
     <TextView
@@ -86,6 +87,7 @@
         android:id="@+id/button2"
         android:layout_width="148dp"
         android:layout_height="43dp"
+        android:backgroundTint="#96f7d2"
         android:onClick="add"
         android:text="@string/add"
         android:textColor="#020202"
@@ -101,6 +103,7 @@
         android:id="@+id/button3"
         android:layout_width="148dp"
         android:layout_height="43dp"
+        android:backgroundTint="#96f7d2"
         android:onClick="sub"
         android:text="@string/subtract"
         android:textColor="#020202"
@@ -116,6 +119,7 @@
         android:id="@+id/button4"
         android:layout_width="148dp"
         android:layout_height="43dp"
+        android:backgroundTint="#96f7d2"
         android:onClick="multiply"
         android:text="@string/multiply"
         android:textColor="#020202"
@@ -131,6 +135,7 @@
         android:id="@+id/button5"
         android:layout_width="148dp"
         android:layout_height="43dp"
+        android:backgroundTint="#96f7d2"
         android:onClick="dividing"
         android:text="@string/dividing"
         android:textColor="#020202"
